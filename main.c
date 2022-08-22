@@ -1,3 +1,4 @@
+// Auther: Mahmoud Ehab
 #include <avr/interrupt.h>
 #define F_CPU 1000000U
 #include <util/delay.h>
